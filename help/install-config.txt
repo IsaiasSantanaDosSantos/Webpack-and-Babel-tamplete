@@ -1,0 +1,4 @@
+Para usar o Webpack junto com o Babel e criar os arquivos bundles, precisamos instalar os seguintes pacotes:
+    npm i --save-dev @babel/preset-env @babel/core @babel/cli babel-loader webpack webpack-cli regenerator-runtime core-js@2
+
+Após a instalação, cria o arquivo de configuração do Webpack.

@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAGAA,QAAQC,IAHK","sources":["webpack://ocean/./src/index.js"],"sourcesContent":["const nome = \"Isaias\";\r\n// 2\r\n// 4\r\nconsole.log(nome);\r\n"],"names":["console","log"],"sourceRoot":""}
